@@ -22,7 +22,7 @@ My dissertation titled, *Transcultural Mobilities and Narratives of School Space
 
 Link to my current [CV](assets/pdf/suchidutta_cv_2Feb21.pdf){:target="\_blank"}.
 
-When not dabbling in academia, I love to cook Indian food with my husband, sing, paint a little, and spend hours talking to my family back in the *city of joy*, Kolkata. 
+When not dabbling in academia, I love to cook Indian food with my [husband](https://rkdass.github.io), sing, paint a little, and spend hours talking to my family back in the *city of joy*, Kolkata. 
 
 <!-- The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
