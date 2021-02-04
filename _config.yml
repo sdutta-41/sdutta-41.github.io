@@ -55,13 +55,13 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Coming Soon! #al-folio  # your blog must have a name for it to show up in the nav bar
+blog_name: Teaching, Research, and some more... #al-folio  # your blog must have a name for it to show up in the nav bar
 blog_description: #a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 # Comments
 disqus_shortname: al-folio # put your disqus shortname
