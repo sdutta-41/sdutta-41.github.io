@@ -18,11 +18,11 @@ social: true
 
 Hello! I am a PhD candidate at the Department of English, University of Miami. My research interest lies in contemporary American immigrant writing, critical race and ethnic studies, digital humanities, and multimodal pedagogies. 
 
-My dissertation titled, *Transcultural Mobilities and Narratives of School Space in Contemporary U.S. Immigrant Literature*, analyzes post-911 contemporary novels to rethink the conceptual meaning and impact of what it means to understand the institutionalization of diversity within spaces of lower and higher education. I examine how the rhetoric of diversity and multiculturalism poses structural limitations on the transcultural mobilities of non-white subjects in US schools, colleges and universities. 
+My dissertation titled, *Transcultural Mobilities and Narratives of School Space in Contemporary U.S. Immigrant Literature*, analyzes post-911 contemporary novels to rethink the conceptual meaning and impact of what it means to understand the institutionalization of diversity within spaces of lower and higher education. I examine how the rhetoric of diversity and multiculturalism poses structural limitations on the transcultural mobilities of non-white subjects in US schools, colleges and universities. For more information on my teaching and research, please see my [blog](blog/){:target="\_blank"}. 
 
 Link to my current [CV](assets/pdf/suchidutta_cv_2Feb21.pdf){:target="\_blank"}.
 
-When not dabbling in academia, I love to cook Indian food with my [husband](https://rkdass.github.io), sing, paint a little, and spend hours talking to my family back in the *city of joy*, Kolkata. 
+When not dabbling in academia, I love to cook Indian food with my [husband](https://rkdass.github.io){:target="\_blank"}, sing, paint a little, and spend hours talking to my family back in the *city of joy*, Kolkata. 
 
 <!-- The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
