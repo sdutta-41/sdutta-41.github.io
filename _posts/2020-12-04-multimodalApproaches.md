@@ -14,14 +14,16 @@ I push my students to constantly ask meaningful questions, engage with the campu
 
 Given below are two sample multimodal assignments that I have previously used in my class: 
 
-<span style="color:purple; font-size:1.5em">**1. Assignment prompt:**</span>
+<span style="color:green; font-size:1.5em">**1. Assignment prompt**</span>
+
 For this assignment you will be studying the University of Miami Public Sculpture Program.
 The UM campus is a rich exhibit of numerous pieces of sculpture that not only contribute to its visual aesthetics but also arouses curiosity regarding the way it is observed, photographed and “seen.” Choose any two sculptures on campus. Observe the people and area around it. 
 Questions to consider: Do people stop to glance or photograph these art pieces? Do people take selfies with them? What kind of community/communities are built around these sculptures? What do these sculptures contribute to the UM campus community? 
 Instructions: Take photos, notes wherever needed. Any data you collect will be part of your co-curated multimodal research project. You may write a blog, a research paper with illustrations, create a PPT presentation or create an Adobe Spark project. 
 
-<span style="color:purple; font-size:1.5em">**2. Assignment Prompt (Final Project)**</span>
+<span style="color:green; font-size:1.5em">**2. Assignment Prompt**</span>
 
+<span style="font-size:1.25em">**Final Project**</span><br />
 Re-review The Help (2011) keeping in mind some of the past reviews we read in class. Consider the following steps as you plan this assignment:
 
 **Step 1:** Do a detailed background research. What kind of reviews did the movie get when it released? How did the audience perceive it? Why are we talking about it in 2020 again? Why is Twitter angry about it? Watch interviews, the Academy Award speeches etc.
@@ -37,3 +39,27 @@ ii)	The technical component: direction, dialogues, lighting, stage, scenery, pro
 **Step 5:** Reminder: DO NOT WRITE A SUMMARY. Ask yourself, what is your contribution in this review? Are you keeping the current racial/socio-political environment of the U.S. in mind? Who is your audience? 
 
 **Step 6:** Give your review an afterlife... blog it!
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/blogImgs/multimodalTeaching/classroom1.jpg">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/blogImgs/multimodalTeaching/classroom2.jpg">
+    </div>
+</div>
+<div class="caption">
+    Lecture style student presentations in class at the University of Miami.
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/blogImgs/multimodalTeaching/classroom3.jpg">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/blogImgs/multimodalTeaching/classroom4.jpg">
+    </div>
+</div>
+<div class="caption">
+    (Left) Final project prep: Students collecting metadata from the Special Collections archives, University of Miami. (Right) Miami Dade College Students at the Kislak Center in the Freedom Tower, Miami, U.S. 
+</div>

@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-Hello! I am a PhD candidate at the Department of English, University of Miami. My research interest lies in contemporary American immigrant writing, critical race and ethnic studies, digital humanities, and multimodal pedagogies. 
+Hello! I am a PhD candidate at the Department of English, University of Miami. My research interest lies in <span style="color:green;">contemporary American immigrant writing, critical race and ethnic studies, digital humanities, and multimodal pedagogies</span>. 
 
 My dissertation titled, *Transcultural Mobilities and Narratives of School Space in Contemporary U.S. Immigrant Literature*, analyzes post-911 contemporary novels to rethink the conceptual meaning and impact of what it means to understand the institutionalization of diversity within spaces of lower and higher education. I examine how the rhetoric of diversity and multiculturalism poses structural limitations on the transcultural mobilities of non-white subjects in US schools, colleges and universities. For more information on my teaching and research, please see my [blog](blog/){:target="\_blank"}. 
 
