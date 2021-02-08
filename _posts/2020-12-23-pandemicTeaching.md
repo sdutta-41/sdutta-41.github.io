@@ -5,6 +5,7 @@ date: 2020-12-23 11:59:00-0400
 description: Parts of this research was presented at the CCCC Regional Conference at the University of Southern California, Dec 19, 2020.
 comments: false
 ---
+
 The Covid-19 pandemic has made the practice of creating learning communities online very challenging with classrooms having to adopt one of three modalities of instruction, in-person, online, and hybrid. In many cases, I have observed at the University of Miami, and through instructors who are active on social media platforms like Twitter and Facebook to be expressing serious concerns regarding the discordance that the choice of multiple modalities during a pandemic has created. In other words, the multiplicity of multiple modalities can actually be a hindrance in the process of creating online learning communities because it creates confusion as well as a sense of non-belonging when compared to traditional and in-person modes of pedagogy. 
 
 As the geographical reach of my English Composition & Academic Writing course expanded transnationally with students zooming in from Uruguay, China, Brazil and various parts of the U.S. with different time zones, I was motivated to adapt to flexible modes of communication and learning. These include group reading practices and discussing writing metacognitively even before beginning to write an assignment. Some strategies and examples can be found below:
