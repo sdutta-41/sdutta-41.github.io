@@ -2,7 +2,7 @@
 layout: post
 title: Pandemic Teaching - Collaborative Approaches to Creating Online Learning Communities
 date: 2020-12-23 11:59:00-0400
-description: Parts of this research was presented at the CCCC Regional Conference at the University of Southern California, Dec 19, 2020.
+description: Parts of this research were presented at the CCCC Regional Conference at the University of Southern California, Dec 19, 2020.
 comments: false
 ---
 

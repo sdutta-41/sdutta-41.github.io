@@ -61,5 +61,5 @@ ii)	The technical component: direction, dialogues, lighting, stage, scenery, pro
     </div>
 </div>
 <div class="caption">
-    (Left) Final project prep: Students collecting metadata from the Special Collections archives, University of Miami. (Right) Miami Dade College Students at the Kislak Center in the Freedom Tower, Miami, U.S. 
+    (Left) Final project prep: Students collecting metadata from the Special Collections archives, University of Miami. (Right) Miami Dade College students at the Kislak Center in the Freedom Tower, Miami, U.S. 
 </div>
