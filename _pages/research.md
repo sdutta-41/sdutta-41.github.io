@@ -1,10 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-# description: Peer--reviewed Journals, Professional and Graduate Student Conferences
-# years: [2017, 2018]
-nav: false
+permalink: /research/
+nav: true
 ---
 
 <span style="color:purple; font-size:1.5em">**Peer--Reviewed Journals**</span>
@@ -45,13 +42,3 @@ Dutta, Suchismita. "“The twisted feet, the half-blind eyes, are easily forgott
 “Preserving a Mini India in the Caribbean: Exploring the Role of Women as Pioneers of Indo-Caribbean Music.” 10th Annual English Department Graduate Symposium, University of Miami, April 4, 2016.
 
 "Recycling Culture(s): Poetics and Practices of Sustainability.” MLL Annual Graduate Conference, University of Miami, Feb 12, 2016.
-
-
-<!-- <div class="publications">
-
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div> -->
