@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-09-15 15:59:00-0400
+date: 2021-11-30 15:59:00-0400
 inline: true
 ---
 
-Awarded the 2021 IMPACT Fellowship at Georgia Tech.
+Invited speaker for the [Digital Humanities Graduate Certificate](assets/pdf/dh_talk_poster.jpg){:target="\_blank"} at UM.
