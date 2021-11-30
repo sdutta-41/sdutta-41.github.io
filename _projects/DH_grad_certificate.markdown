@@ -12,7 +12,7 @@ A collection of past and current projects, supervised student projects at the Un
 
 <span style="color:purple; font-size:1.5em">**Personal Projects**</span>
 
-- [A-Z of Multimodal Pedegogy (2020-present)](http://127.0.0.1:4000/projects/A-Z_pedagogy/){:target="\_blank"}
+- [A-Z of Multimodal Pedegogy (2020-present)](https://sdutta-41.github.io/projects/A-Z_pedagogy/){:target="\_blank"}
 - WE1S: UM Human Subjects Research (2019-2020) [[Mini Report 1]](https://we1s.ucsb.edu/wp-content/uploads/MR-9-13.pdf){:target="\_blank"}, [[Mini Report 2]](https://we1s.ucsb.edu/wp-content/uploads/MR-9-5.pdf){:target="\_blank"}
 - [Mapping Mary Gardner Lowell's Journey to Cuba (2017)](https://www.arcgis.com/apps/MapJournal/index.html?appid=ed00bda403034e6ba8da8e9b5499fa62){:target="\_blank"}
 
