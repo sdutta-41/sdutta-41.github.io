@@ -5,7 +5,7 @@ permalink: /research/
 nav: true
 ---
 
-This is a selected list of my publications, conferences and talks. For a complete listing, please see my [CV](https://sdutta-41.github.io/assets/pdf/suchidutta_cv_Nov2021.pdf){:target="\_blank"}.
+This is a selected list of my publications, conferences and talks. For a complete listing, please see my [CV](/assets/pdf/suchidutta_cv_31Jan22.pdf){:target="\_blank"}.
 
 ---
 

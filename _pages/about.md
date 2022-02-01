@@ -20,7 +20,7 @@ Hello! I am a Marion L. Brittain Postdoctoral Fellow at Georgia Tech. My researc
 
 My book project, *Transcultural Mobilities and Narratives of School Space in Contemporary U.S. Immigrant Literature*, analyzes post-911 contemporary novels to rethink the conceptual meaning and impact of what it means to understand the institutionalization of diversity within spaces of lower and higher education. I examine how the rhetoric of diversity and multiculturalism poses structural limitations on the transcultural mobilities of non-white subjects in US schools, colleges and universities. For more information on my teaching and research, please see my [blog](blog/){:target="\_blank"}. 
 
-Link to my current [CV](assets/pdf/suchidutta_cv_Nov2021.pdf){:target="\_blank"}.
+Link to my current [CV](assets/pdf/suchidutta_cv_31Jan22.pdf){:target="\_blank"}.
 
 When not dabbling in academia, I love to cook Indian food with my [husband](https://rkdass.github.io){:target="\_blank"}, sing, paint a little, and spend hours talking to my family back in the *city of joy*, Kolkata. 
 
