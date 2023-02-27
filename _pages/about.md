@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-Hello! I am a Marion L. Brittain Postdoctoral Fellow at Georgia Tech. My research and teaching incorporate <span style="color:green;">critical race and ethnic studies, digital humanities, multimodal pedagogies, and writing across the curriculum</span>. 
+Hello! I am a Marion L. Brittain Postdoctoral Fellow and the Assistant Director of the Writing and Communication Program at Georgia Tech. My research and teaching incorporate <span style="color:green;">critical race and ethnic studies, digital humanities, multimodal pedagogies, and writing across the curriculum</span>. 
 
 My book project, *Transcultural Mobilities and Narratives of School Space in Contemporary U.S. Immigrant Literature*, analyzes post-911 contemporary novels to rethink the conceptual meaning and impact of what it means to understand the institutionalization of diversity within spaces of lower and higher education. I examine how the rhetoric of diversity and multiculturalism poses structural limitations on the transcultural mobilities of non-white subjects in US schools, colleges and universities. For more information on my teaching and research, please see my [blog](blog/){:target="\_blank"}. 
 

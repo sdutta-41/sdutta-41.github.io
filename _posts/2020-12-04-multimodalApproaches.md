@@ -49,7 +49,7 @@ ii)	The technical component: direction, dialogues, lighting, stage, scenery, pro
     </div>
 </div>
 <div class="caption">
-    Lecture style student presentations in class at the University of Miami.
+    Lecture style student presentations in class at the University of Miami, U.S. (2020).
 </div>
 
 <div class="row mt-3">
@@ -61,5 +61,17 @@ ii)	The technical component: direction, dialogues, lighting, stage, scenery, pro
     </div>
 </div>
 <div class="caption">
-    (Left) Final project prep: Students collecting metadata from the Special Collections archives, University of Miami. (Right) Miami Dade College students at the Kislak Center in the Freedom Tower, Miami, U.S. 
+    (Left) Final project prep: Students collecting metadata from the Special Collections archives, University of Miami. (Right) Miami Dade College students at the Kislak Center in the Freedom Tower, Miami, U.S. (2020).
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/blogImgs/multimodalTeaching/classroom5.jpeg">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/blogImgs/multimodalTeaching/classroom6.jpeg">
+    </div>
+</div>
+<div class="caption">
+    Student visit to the Freedom Tower Museum Archives, Miami-Dade College, U.S. (2018).
 </div>
