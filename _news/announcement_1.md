@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-04-02
 inline: true
 ---
 
-A simple inline announcement.
+​Recipient of the 2025 CCCC Scholars for the Dream Travel Award 

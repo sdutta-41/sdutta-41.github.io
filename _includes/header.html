@@ -52,6 +52,9 @@
                 </a>
               </li>
               {% if site.blog_nav_title %}
+              <!-- CV link -->
+              <li class="nav-item"><a class="nav-link" href="{{ '/assets/pdf/Dutta_CV_may25.pdf' | relative_url }}">CV</a>
+              </li>
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
